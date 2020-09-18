@@ -128,6 +128,7 @@ ExpressComponent:
        Bootstrap:
           Port: 9000
           Start: npm run start
+          Path: ./src/bootstrap
 ```
 
 ### 详细使用方法
@@ -309,3 +310,4 @@ Domains类型为：
 | --- |  --- |  --- |  --- | 
 | Port | false | Number | 启动端口 |
 | Start | false | String | 启动指令 |
+| Path | false | String | Bootstrap路径 |
