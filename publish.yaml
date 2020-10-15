@@ -2,7 +2,7 @@ Type: Component
 Name: express
 Provider:
   - Alibaba
-Version: 0.0.29
+Version: 0.0.30
 Description: 阿里云Express组件，帮助您快速部署Express项目
 HomePage: https://www.aliyun.com/
 Tags:
@@ -42,7 +42,7 @@ Properties:
           - us-west-1
           - us-east-1
           - ap-south-1
-          - cn-zhangjiakou-na62-a01
+
   Log:
     Required: false
     Description: log配置，function产生的log会写入这里配置的logstore
