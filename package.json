@@ -1,6 +1,6 @@
 {
   "name": "@serverless-devs/express-alibaba",
-  "version": "0.0.36",
+  "version": "0.0.38",
   "description": "Serverless Devs Tool Express Framework Component For Alibaba Cloud",
   "keywords": [
     "Serverless",
@@ -31,7 +31,7 @@
   "dependencies": {
     "fs-extra": "^9.0.1",
     "string-format": "^2.0.0",
-    "@serverless-devs/s-framework": "^0.0.20"
+    "@serverless-devs/s-framework": "^0.0.21"
   },
   "devDependencies": {
     "@types/node": "^14.0.23",
