@@ -1,6 +1,6 @@
 {
   "name": "@serverless-devs/express-alibaba",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "description": "Serverless Devs Tool Express Framework Component For Alibaba Cloud",
   "keywords": [
     "Serverless",
