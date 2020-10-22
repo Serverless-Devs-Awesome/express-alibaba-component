@@ -1,6 +1,6 @@
 {
   "name": "@serverless-devs/express-alibaba",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "description": "Serverless Devs Tool Express Framework Component For Alibaba Cloud",
   "keywords": [
     "Serverless",
@@ -9,7 +9,7 @@
     "Serverless-Tool",
     "Express"
   ],
-  "homepage": "https://www.serverlessfans.com",
+  "homepage": "https://www.serverless-devs.com",
   "author": "Serverless-Devs",
   "contributors": [
     "Shoushuai Wang",
