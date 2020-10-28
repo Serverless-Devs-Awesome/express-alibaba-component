@@ -1,4 +1,4 @@
-https://github.com/Serverless-Devs/fc-alibaba.git// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
 import Framework = require('@serverless-devs/s-framework');
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
