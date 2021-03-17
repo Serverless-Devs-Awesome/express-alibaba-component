@@ -26,6 +26,7 @@
   },
   "scripts": {
     "watch": "tsc -w -p compile.tsconfig.json",
+    "build": "tsc -p compile.tsconfig.json",
     "release": "npm install --production && tsc -p compile.tsconfig.json && cp -r ./node_modules ./src && s platform publish",
     "cd": "npm install --production && tsc -p compile.tsconfig.json  && cp -r ./node_modules ./src"
   },
