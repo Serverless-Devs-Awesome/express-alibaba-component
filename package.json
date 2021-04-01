@@ -1,6 +1,6 @@
 {
   "name": "@serverless-devs/express-alibaba",
-  "version": "0.0.51",
+  "version": "0.0.52",
   "description": "Serverless Devs Tool Express Framework Component For Alibaba Cloud",
   "keywords": [
     "Serverless",
@@ -25,10 +25,9 @@
     "url": "https://github.com/ServerlessTool/express-alibaba"
   },
   "scripts": {
-    "watch": "tsc -w -p compile.tsconfig.json",
     "build": "tsc -p compile.tsconfig.json",
-    "release": "npm install --production && tsc -p compile.tsconfig.json && cp -r ./node_modules ./src && s platform publish",
-    "cd": "npm install --production && tsc -p compile.tsconfig.json  && cp -r ./node_modules ./src"
+    "watch": "tsc -w -p compile.tsconfig.json",
+    "publish": "npm install --production && tsc -p compile.tsconfig.json"
   },
   "dependencies": {
     "fs-extra": "^9.0.1",

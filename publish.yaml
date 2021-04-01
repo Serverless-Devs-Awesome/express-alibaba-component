@@ -1,8 +1,8 @@
 Type: Component
 Name: express
 Provider:
-  - Alibaba
-Version: 0.0.51
+  - 阿里云
+Version: 0.0.53
 Description: 阿里云Express组件，帮助您快速部署Express项目
 HomePage: https://www.aliyun.com/
 Tags:
